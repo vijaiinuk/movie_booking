@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Spiderman",
+    "available": 5,
+    "pricePerSeat": 20.00,
+    "taxPercentagePerSeat": 15.00
+  },
+  {
+    "name": "Titanic",
+    "available": 8,
+    "pricePerSeat": 10.00,
+    "taxPercentagePerSeat": 20.00
+  },
+  {
+    "name": "Ironman",
+    "available": 12,
+    "pricePerSeat": 25.00,
+    "taxPercentagePerSeat": 10.00
+  }
+]
